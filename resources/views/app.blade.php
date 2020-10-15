@@ -25,7 +25,6 @@
     {{-- Vue App --}}
     <section id="app" v-cloak>
         <baseapp></baseapp>
-        <scrolltop></scrolltop>
     </section>
 
     {{-- Footer JS Scripts --}}

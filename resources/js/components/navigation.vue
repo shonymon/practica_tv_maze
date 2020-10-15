@@ -6,11 +6,11 @@
                     Incio
                 </router-link>
 
-                <a class="navbar-item" href="http://www.tvmaze.com/shows">
+                <a class="navbar-item" href="http://www.tvmaze.com/shows" target="_blank">
                     Página Oficial
                 </a>
 
-                <a class="navbar-item" href="http://www.tvmaze.com/shows">
+                <a class="navbar-item" href="http://www.tvmaze.com/api" target="_blank">
                     Documentación API
                 </a>
 

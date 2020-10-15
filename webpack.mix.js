@@ -19,10 +19,11 @@ mix.js('resources/js/app.js', 'public/js/app.js')
 .extract([
     '@fortawesome/fontawesome-free',
     'bulma',
+    'bulma-toast',
     'axios',
     'vue',
     'vuex',
-    'vue-router',
+    'vue-router'
 ], 'public/js/vendor.js').sourceMaps();
 
 mix.setResourceRoot('../');
